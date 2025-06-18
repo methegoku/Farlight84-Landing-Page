@@ -1,8 +1,5 @@
-.hero-container{
-    width: 100%;
-    height: 100dvh; /* make sure it fills full screen */
-    overflow: hidden;
-  
+/* .hero-container{
+    height: 100vh;
 }
 
 .background-video {
@@ -42,9 +39,9 @@
 }
 
 .home-info{
-    position: relative;
-    left: 65%;
-    top: 32%;
+    position: absolute;
+    top: 45%;
+    right: 5%;
     display: block;
     text-align: end;
     align-items: end;
@@ -72,6 +69,7 @@
 }
 
 .download{
+    
     padding: 15px 15px;
     background-color: rgb(255, 89, 28);
     color: white;
@@ -101,7 +99,7 @@
     background-color: rgb(149, 248, 0);  
     cursor:crosshair; 
     transform: scale(1.05)
-} 
+} */
 
 
 

@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "M4 Assault Rifle",
+      "tagline": "A versatile assault rifle that's easy to learn and very stable.",
+      "description": "A graceful combat artist.",
+      "image": "/assets/weapons/m4.png"
+    },
+    {
+      "id": 2,
+      "name": "AK-47",
+      "tagline": "High power, but harder to control.",
+      "description": "A powerful rebel's choice.",
+      "image": "/assets/weapons/ak47.png"
+    }
+  ]
+  

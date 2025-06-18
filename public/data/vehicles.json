@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Thunder SUV",
+      "tagline": "Fast and powerful for squad runs.",
+      "description": "A military beast with heavy armor.",
+      "image": "/assets/vehicles/suv.png"
+    },
+    {
+      "id": 2,
+      "name": "Racer Bike",
+      "tagline": "Speed demon with high maneuverability.",
+      "description": "Perfect for solo ambush.",
+      "image": "/assets/vehicles/bike.png"
+    }
+  ]
+  

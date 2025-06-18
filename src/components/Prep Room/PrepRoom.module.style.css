@@ -1,0 +1,75 @@
+.prep-room {
+    background: #7000e5;
+    padding: 50px;
+    height: 100vh;
+    color: white;
+    text-align: center;
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 30px;
+  }
+  
+  .tabs button {
+    padding: 12px 24px;
+    font-weight: bold;
+    border: none;
+    background: #333;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .tabs button.active {
+    background: #baff00;
+    color: black;
+  }
+  
+  .main-display {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  
+  .image img {
+    max-width: 500px;
+    height: auto;
+  }
+  
+  .carousel-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  .carousel-controls button {
+    padding: 10px;
+    font-size: 24px;
+    background: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .thumb {
+    border: 2px solid transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px;
+  }
+  
+  .thumb.selected {
+    border-color: #baff00;
+    background: black;
+  }
+  
+  .thumb img {
+    height: 60px;
+  }
+  
